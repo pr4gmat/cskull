@@ -1,1 +1,1 @@
-(assets/application.png)
+![application](assets/application.png)
